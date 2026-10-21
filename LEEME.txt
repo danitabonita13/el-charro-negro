@@ -1,0 +1,13 @@
+EL TRATO DEL CHARRO NEGRO — VERSIÓN PARA CELULAR
+
+1. Descomprime el ZIP.
+2. Prueba abriendo index.html en Chrome.
+3. En GitHub crea un repositorio PÚBLICO diferente del de El Último Altar, por ejemplo el-charro-negro.
+4. Usa Add file > Upload files y sube LOS SEIS ARCHIVOS SUELTOS, no el ZIP ni la carpeta.
+5. En Settings > Pages, elige Deploy from a branch > main > /(root) > Save.
+6. La dirección será https://TUUSUARIO.github.io/el-charro-negro/
+
+Archivos necesarios en la raíz:
+index.html, style.css, script.js, charro.jpg, silbido.mp3, LEEME.txt
+
+IMPORTANTE: el sonido requiere tocar un botón; algunos navegadores móviles limitan la reproducción automática.
